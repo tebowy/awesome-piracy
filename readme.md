@@ -303,7 +303,6 @@ for any IP address.
 - [AlphaRatio ](https://alpharatio.cc) (AR) :star2: A good starter tracker with lots of freeleech content.
 - [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music
 - [Audionews](https://audionews.org/) (AN) Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps, etc) Open signups on the 1st-2nd every month.
-- [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD is a private tracker for quality enthusiasts.
 - [BakaBT](https://bakabt.me/) (BBT) a torrent tracker which specializes in serving anime fans
 - [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audiobooks private tracker
 - [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audiobooks.
@@ -329,7 +328,6 @@ for any IP address.
 - [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
 - [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
 - [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
-- [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
